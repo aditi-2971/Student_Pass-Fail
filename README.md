@@ -7,6 +7,6 @@ Independent Variable: Study Hours and Previous Exam Score
 <br>
 Dependent Variable: Pass/Fail (1-Pass, 0-Fail)
 <br> <br>
-The studentInfo.py contains various steps for analysing the dataset. 
+The studentInfo.py contains various steps for analyzing the dataset. 
 <br>
 Loading the data, Exploring the data, Preparing the data, Spliting of data into training and testing set, Training the model, Evaluating the model, Visualization.
